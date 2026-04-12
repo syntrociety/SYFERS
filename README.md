@@ -29,19 +29,23 @@ The goal: make what we learn transferable. So other communities, cooperatives, m
 
 ```
 SYFERS/
-├── 01-governance/        Consent governance, decisions, conflict resolution
-├── 02-ecology/           Food forest, SSAAFLab, seed bank, water
-├── 03-social/            Onboarding, workshops, stakeholders
-├── 04-economy/           10% model, Friends programme, micro-enterprises
-├── 05-energy/            22.3 kWp system, production data, replication guide
-├── 06-housing/           Tiny house Unit 1, policy, regulatory context
-├── 07-tools/             Open source tools built by Sulitânia
-├── 08-alignment/         EU, national and regional policy alignment
-├── 09-learning/          Indicators, quarterly reflections, mistakes log
-└── 10-orri-compliance/  ORRI mapping, self-assessment, future funding
+├── 01-governance/       Consent governance, decisions, conflict resolution
+├── 02-ecology/          Food forest, SSAAFLab, seed bank, water
+├── 03-social/           Onboarding, workshops, stakeholders
+├── 04-economy/          10% model, Friends programme, micro-enterprises
+├── 05-energy/           22.3 kWp system, production data, replication guide
+├── 06-housing/          Tiny house Unit 1, policy, regulatory context
+├── 07-tools/            Open source tools built by Sulitânia
+├── 08-alignment/        EU, national and regional policy alignment
+├── 09-learning/         Indicators, quarterly reflections, mistakes log
+├── 10-orri-compliance/  ORRI mapping, self-assessment, future funding
+├── docs/                Core documents (EN): Heal the System, Living Trinity,
+│                        SYFERS Proposal, Communication Plan
+├── original/            PDF source files
+└── translations/        All documents in nl, pt, de, es, fr, it
+    └── [lang]/
+        └── docs/        Translated versions of core documents
 ```
-
-The `original/` and language folders (`en/`, `pt/`, `nl/`, etc.) contain key founding documents in multiple languages.
 
 ---
 
@@ -51,6 +55,8 @@ The `original/` and language folders (`en/`, `pt/`, `nl/`, etc.) contain key fou
 - **Replicate our food forest** → `02-ecology/food-forest/establishment-guide.md`
 - **Community energy system** → `05-energy/replication-guide.md`
 - **EU funding application** → `10-orri-compliance/principles-mapping.md`
+- **Core documents** → `docs/`
+- **Translations** → `translations/[lang]/docs/`
 - **Contribute** → `CONTRIBUTING.md`
 
 ---
