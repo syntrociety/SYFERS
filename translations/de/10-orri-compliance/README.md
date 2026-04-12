@@ -12,16 +12,16 @@ Wie Sulitânia die 10 Prinzipien Offener und Verantwortungsvoller Forschung und 
 
 | # | Prinzip | Belege in diesem Repo |
 |---|---|---|
-| 1 | Inklusive Governance | 1-governance/ |
-| 2 | Gesellschaftliche Ziele | 2-ecology/, 3-social/, 4-economy/ |
-| 3 | Multi-Stakeholder (Quadruple Helix) | 3-social/stakeholders/ |
-| 4 | Antizipation und Reflexivität | 9-learning/quarterly-reflections/ |
-| 5 | Marktdefizite beheben | 4-economy/circulation-model.md |
-| 6 | Repräsentation erweitern | 3-social/onboarding/ |
-| 7 | Monitoring und Rechenschaftspflicht | 9-learning/indicators.md |
-| 8 | Experimenteller Ansatz | 2-ecology/ssaaflab/, 6-housing/ |
-| 9 | Ethik und Integrität | 9-learning/mistakes-and-lessons.md |
-| 10 | Wissenschaftsbildung und Bürgerschaft | 3-social/education/ |
+| 1 | Inklusive Governance | 01-governance/ |
+| 2 | Gesellschaftliche Ziele | 02-ecology/, 03-social/, 04-economy/ |
+| 3 | Multi-Stakeholder (Quadruple Helix) | 03-social/stakeholders/ |
+| 4 | Antizipation und Reflexivität | 09-learning/quarterly-reflections/ |
+| 5 | Marktdefizite beheben | 04-economy/circulation-model.md |
+| 6 | Repräsentation erweitern | 03-social/onboarding/ |
+| 7 | Monitoring und Rechenschaftspflicht | 09-learning/indicators.md |
+| 8 | Experimenteller Ansatz | 02-ecology/ssaaflab/, 06-housing/ |
+| 9 | Ethik und Integrität | 09-learning/mistakes-and-lessons.md |
+| 10 | Wissenschaftsbildung und Bürgerschaft | 03-social/education/ |
 
 ---
 *Zuletzt aktualisiert: April 2026*

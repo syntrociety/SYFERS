@@ -12,16 +12,16 @@ Hoe Sulitânia de 10 principes van Open en Verantwoordelijk Onderzoek en Innovat
 
 | # | Principe | Bewijs in deze repo |
 |---|---|---|
-| 1 | Inclusief bestuur | 1-governance/ |
-| 2 | Maatschappelijke doelen | 2-ecology/, 3-social/, 4-economy/ |
-| 3 | Multi-stakeholder (Quadruple Helix) | 3-social/stakeholders/ |
-| 4 | Anticipatie en reflexiviteit | 9-learning/quarterly-reflections/ |
-| 5 | Marktfalen aanpakken | 4-economy/circulation-model.md |
-| 6 | Representatie verbreden | 3-social/onboarding/ |
-| 7 | Monitoring en verantwoording | 9-learning/indicators.md |
-| 8 | Experimentele aanpak | 2-ecology/ssaaflab/, 6-housing/ |
-| 9 | Ethiek en integriteit | 9-learning/mistakes-and-lessons.md |
-| 10 | Wetenschapseducatie en burgerschap | 3-social/education/ |
+| 1 | Inclusief bestuur | 01-governance/ |
+| 2 | Maatschappelijke doelen | 02-ecology/, 03-social/, 04-economy/ |
+| 3 | Multi-stakeholder (Quadruple Helix) | 03-social/stakeholders/ |
+| 4 | Anticipatie en reflexiviteit | 09-learning/quarterly-reflections/ |
+| 5 | Marktfalen aanpakken | 04-economy/circulation-model.md |
+| 6 | Representatie verbreden | 03-social/onboarding/ |
+| 7 | Monitoring en verantwoording | 09-learning/indicators.md |
+| 8 | Experimentele aanpak | 02-ecology/ssaaflab/, 06-housing/ |
+| 9 | Ethiek en integriteit | 09-learning/mistakes-and-lessons.md |
+| 10 | Wetenschapseducatie en burgerschap | 03-social/education/ |
 
 ---
 *Laatste update: april 2026*

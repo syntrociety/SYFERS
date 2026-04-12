@@ -29,15 +29,15 @@ The goal: make what we learn transferable. So other communities, cooperatives, m
 
 ```
 SYFERS/
-├── 1-governance/        Consent governance, decisions, conflict resolution
-├── 2-ecology/           Food forest, SSAAFLab, seed bank, water
-├── 3-social/            Onboarding, workshops, stakeholders
-├── 4-economy/           10% model, Friends programme, micro-enterprises
-├── 5-energy/            22.3 kWp system, production data, replication guide
-├── 6-housing/           Tiny house Unit 1, policy, regulatory context
-├── 7-tools/             Open source tools built by Sulitânia
-├── 8-alignment/         EU, national and regional policy alignment
-├── 9-learning/          Indicators, quarterly reflections, mistakes log
+├── 01-governance/        Consent governance, decisions, conflict resolution
+├── 02-ecology/           Food forest, SSAAFLab, seed bank, water
+├── 03-social/            Onboarding, workshops, stakeholders
+├── 04-economy/           10% model, Friends programme, micro-enterprises
+├── 05-energy/            22.3 kWp system, production data, replication guide
+├── 06-housing/           Tiny house Unit 1, policy, regulatory context
+├── 07-tools/             Open source tools built by Sulitânia
+├── 08-alignment/         EU, national and regional policy alignment
+├── 09-learning/          Indicators, quarterly reflections, mistakes log
 └── 10-orri-compliance/  ORRI mapping, self-assessment, future funding
 ```
 
@@ -47,9 +47,9 @@ The `original/` and language folders (`en/`, `pt/`, `nl/`, etc.) contain key fou
 
 ## How to use this
 
-- **Governance model** → `1-governance/README.md`
-- **Replicate our food forest** → `2-ecology/food-forest/establishment-guide.md`
-- **Community energy system** → `5-energy/replication-guide.md`
+- **Governance model** → `01-governance/README.md`
+- **Replicate our food forest** → `02-ecology/food-forest/establishment-guide.md`
+- **Community energy system** → `05-energy/replication-guide.md`
 - **EU funding application** → `10-orri-compliance/principles-mapping.md`
 - **Contribute** → `CONTRIBUTING.md`
 
